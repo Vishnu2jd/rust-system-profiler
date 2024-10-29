@@ -42,10 +42,7 @@ cargo run --release -- --interval 10 --duration 120
 
 This will run the profiler every 10 seconds for a total of 120 seconds.
 
-\section{Achievements}
-\begin{itemize} % Start an itemize environment
-    \item Pls Add your Achvements here e.g., Hackathons, Exam Ranks, etc.
-\end{itemize} % End the itemize environment
+
 ## Output
 
 The profiler will print real-time snapshots to the console and store the data in a file named `profile_data.json` in the current directory. After completion, it will print a summary of the collected data.
